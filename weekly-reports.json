@@ -1,27 +1,4 @@
 {
-  "reports": [
-    {
-      "id": "test-1787909061897",
-      "name": "测试用户",
-      "weekStart": "2026-08-24",
-      "weekEnd": "2026-08-28",
-      "items": [
-        {
-          "category": "品牌传播与整合营销",
-          "name": "部署测试",
-          "progress": 100,
-          "status": "已完成",
-          "output": "1D 部署成功"
-        }
-      ],
-      "aiNative": {
-        "level": "L1",
-        "desc": "测试 AI Native"
-      },
-      "nextWeek": [],
-      "supports": [],
-      "submittedAt": "2026-08-28T09:24:21.897Z"
-    }
-  ],
+  "reports": [],
   "annotations": {}
 }
