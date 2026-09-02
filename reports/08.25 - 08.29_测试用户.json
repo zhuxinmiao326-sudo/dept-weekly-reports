@@ -1,0 +1,29 @@
+{
+  "id": "r-test-1788340921534",
+  "name": "测试用户",
+  "avatar": "",
+  "weekRange": "08.25 - 08.29",
+  "thisWeek": [
+    {
+      "name": "测试事项",
+      "tag": "品牌传播与整合营销",
+      "status": "正常推进",
+      "desc": "这是一条用于验证 GitHub 读写的测试数据"
+    }
+  ],
+  "nextWeek": [
+    {
+      "name": "测试计划",
+      "tag": "品牌传播与整合营销",
+      "output": "验证数据同步",
+      "priority": "P1",
+      "time": "下周"
+    }
+  ],
+  "supportNeeds": [],
+  "aiNative": {
+    "level": "L1",
+    "desc": "测试 AI Native 说明",
+    "items": []
+  }
+}
